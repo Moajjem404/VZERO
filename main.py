@@ -58,11 +58,11 @@ print(mun)
 mu = input('\t\033[1;32;40mEnter\033[1;31;40m >>>\033[1;33;40m ')
 
 if mu == '1':
-	slowprint('\t\n\033[32m██████████████]99%\n')
+	
 	os.system('python ip.py')
 	
 elif mu == '2':
-	slowprint('\033[32m██████████████]99%')
+	
 	os.system('python phn.py')
 	
 elif mu == '3':
