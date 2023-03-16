@@ -1,0 +1,6 @@
+requests
+pyfiglet
+pyshorteners
+phonenumbers
+faker
+pytube
