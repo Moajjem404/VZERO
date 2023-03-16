@@ -1,7 +1,7 @@
 # VZERO
 
 ## Features
-- ip to Ip to info
+- Ip To Info
 - Number To Info
 - Styles Text
 - Internet Speed Cheak 
@@ -23,7 +23,7 @@ pkg install python
 git clone https://github.com/Moajjem404/VZERO
 ```
 ```bash
-cd VZEORO
+cd VZERO
 ```
 install requirements.txt file just 1 time
 ```bash
